@@ -7,7 +7,7 @@
 // $charset = 'utf8mb4';
 
 //Remote Database
-$host = 'Kh9svG80LH';
+$host = 'remotemysql.com';
 $db = 'jHINWZfYrB';
 $user = 'jHINWZfYrB';
 $pass = 'Kh9svG80LH';
