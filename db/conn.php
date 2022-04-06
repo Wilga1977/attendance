@@ -1,9 +1,16 @@
 <?php 
+// Local database
+// $host = 'localhost';
+// $db = 'attendance_db';
+// $user = 'root';
+// $pass = '';
+// $charset = 'utf8mb4';
 
-$host = 'localhost';
-$db = 'attendance_db';
-$user = 'root';
-$pass = '';
+//Remote Database
+$host = 'Kh9svG80LH';
+$db = 'jHINWZfYrB';
+$user = 'jHINWZfYrB';
+$pass = 'Kh9svG80LH';
 $charset = 'utf8mb4';
 
 $sdn = "mysql:host=$host;dbname=$db;charset=$charset";
